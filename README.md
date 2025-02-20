@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Bachelors Degree at EPFL
+- 🔭 I’m currently working on a Bachelors Degree at EPFL
 - 🌱 I’m currently learning chemistry
 -->
